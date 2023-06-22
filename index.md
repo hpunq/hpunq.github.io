@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+hi i'm brandon/bundy/him
 
-Maybe say a some things about yourself.
+i'm trying to get into writing/reviewing more, so this is my platform for that
 
-Or maybe what you plan to blog about.
+bye :0
