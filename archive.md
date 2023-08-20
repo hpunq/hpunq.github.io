@@ -1,6 +1,6 @@
 ---
 layout: page
-title: backlog.bndy
+title: backlog
 ---
 
 {% for tag in site.tags %}
