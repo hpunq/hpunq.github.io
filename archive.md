@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bundy Archive
+title: backlog.bndy
 ---
 
 {% for tag in site.tags %}
