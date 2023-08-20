@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Archive
+title: Bundy Archive
 ---
 
 {% for tag in site.tags %}
