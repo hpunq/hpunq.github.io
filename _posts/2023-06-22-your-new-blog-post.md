@@ -1,3 +1,3 @@
-## reviewing redhorse – limina
+## where i've been + where i'm going
 
-One of my good pals redhorse released an album recently.
+2023 has been unexpected. Not unexpectedly bad, or exceptional, but just... not what I saw coming. 
