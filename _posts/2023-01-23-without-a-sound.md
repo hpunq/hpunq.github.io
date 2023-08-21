@@ -32,7 +32,7 @@ without a sound
 without a sound
 without a sound
 
-walk in your room,
+walk in your room
 the light dissipates.
 why couldn’t you wait?
 why couldn’t you wait.
